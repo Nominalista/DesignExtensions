@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name             = 'DesignExtensions'
-    s.version          = '0.1.0'
+    s.version          = '0.1.1'
     s.summary          = 'Helps building interface without storyboard.'
 
     s.homepage         = 'https://github.com/Nominalista/DesignExtensions'
